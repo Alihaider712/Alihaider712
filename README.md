@@ -24,7 +24,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Alihaider712&style=for-the-badge&color=7e15f7&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Alihaider712?style=for-the-badge&color=7e15f7&labelColor=0d1117"/>
+<!-- <img src="https://img.shields.io/github/followers/Alihaider712?style=for-the-badge&color=7e15f7&labelColor=0d1117"/> -->
 
 </div>
 
